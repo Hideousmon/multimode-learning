@@ -1,5 +1,5 @@
 
-Code for the research paper "Approaching physical limits of latent dimensionality in optical computing".
+Code for the research paper "Approaching physical limits on latent dimensionality in optical computing".
 ## System Requirements
 
 ### Core Dependencies
